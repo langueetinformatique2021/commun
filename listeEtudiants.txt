@@ -2,5 +2,13 @@
 28708591
 21306819
 21311778
+<<<<<<< HEAD
 28701328
 28708618
+=======
+<<<<<<< HEAD
+28609297
+=======
+28701328
+>>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
+>>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
