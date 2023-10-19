@@ -10,6 +10,6 @@
 28609297
 =======
 28701328
->>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
->>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
 21200440
+>>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
+>>>>>>> branch 'master' of https://github.com/langueetinformatique2021/commun
